@@ -1,0 +1,10 @@
+# Desarrollado originalmente con PyCaret 2.x + pandas_profiling (ver nota de versiones en el README)
+pycaret>=2.3,<3
+pandas
+numpy
+scikit-learn
+pandas-profiling
+tpot
+jupyter
+openpyxl
+xlrd
