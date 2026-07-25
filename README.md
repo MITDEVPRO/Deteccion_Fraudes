@@ -46,6 +46,6 @@ En detección de fraude las clases están desbalanceadas y **un fraude no detect
 ## 👤 Autor
 
 **Luis Cáceres** — CTO & CFO · IA aplicada en producción
-[luiscaceres.cl](https://luiscaceres.cl) · [LinkedIn](https://www.linkedin.com/in/luis-caceres-cto-cfo) · [GitHub](https://github.com/MITDEVPRO)
+[luiscaceres.cl](https://luiscaceres.cl) · [LinkedIn](https://www.linkedin.com/in/luis-caceres-cfo-cto) · [GitHub](https://github.com/MITDEVPRO)
 
 Licencia [MIT](LICENSE).
