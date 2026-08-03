@@ -1,5 +1,8 @@
 # Detección de Fraudes con Machine Learning
 
+
+> 💡 **Relacionado:** si trabajas finanzas con IA, mira [**finanzas-mcp**](https://github.com/MITDEVPRO/finanzas-mcp) — 25 calculadoras financieras (WACC, DCF, Z-Score, amortización…) como servidor MCP para Claude. `claude mcp add finanzas -- uvx finanzas-mcp`
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PyCaret](https://img.shields.io/badge/-PyCaret-333333?style=flat)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikitlearn)
